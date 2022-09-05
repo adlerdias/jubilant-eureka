@@ -1,5 +1,5 @@
 import { useCallback, useState } from 'react'
-import type { ReactNode, PropsWithChildren } from 'React'
+import type { ReactNode, PropsWithChildren } from 'react'
 import UIAlert from 'src/components/ui/Alert'
 import { mark } from 'src/sdk/tests/mark'
 import Icon from 'src/components/ui/Icon'
