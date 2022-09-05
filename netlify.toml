@@ -1,5 +1,0 @@
-[build]
-    command = "yarn build"
-    publish = "public"
-[dev]
-    command = "yarn develop"
